@@ -1,0 +1,43 @@
+.header{
+    background: gray;
+    width: 100%;
+    padding:15px;
+}
+
+.afterHeader{
+    display: flex;
+}
+
+.sideBar{
+    display: grid;
+    flex-direction: row;
+}
+
+.btn-warning-custom {
+    margin: 30px;
+    color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    border-radius: 10px;
+    width: 150px;
+}
+
+.innerSidebarStyle{
+    display: flex;
+    
+}
+.inner-Sidebar{
+    /* border: 2px solid greenyellow; */
+    border-radius: 50px;
+    height: 300px
+}
+
+.btn-success-custom{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    /* display: flex; */
+    
+    border-radius: 10px;
+    width: 150px;
+}
